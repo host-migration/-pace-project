@@ -1,0 +1,58 @@
+/*CSS Ideas*/
+body {
+    background-color: antiquewhite;
+}
+
+h1{
+    color:coral
+}
+
+h2{
+    font-family:trebuchet; 
+    color:lightskyblue;
+    font-size:300%;
+    text-align: center;
+    text-transform:lowercase;
+}
+
+
+h4{
+    font-size:50%;
+    font-family:courier;
+    font-style: italic;
+    color:rgba(133, 224, 36, 0.66);
+    background-color:rgba(128, 128, 128, 0.046);
+    text-align:right;
+    line-height: 200%;
+}
+
+p{
+    font-family:monospace;
+    color:black
+}
+
+
+/*              forced font variant
+h2{
+    font-variant:small-caps;
+}
+*/
+
+
+
+/*              custom font insert
+@font-face {
+font-family:myFont;
+src: url();
+} */
+
+
+/*              line height
+h1{
+    line-height: 20%;
+} 
+                this would likely cause the writing to overlap*/
+                
+
+
+
